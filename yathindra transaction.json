@@ -1,0 +1,520 @@
+[
+  {
+    "date": "26-09-2024",
+    "description": "ACH-CR-GARDEN REACH SHIPBUI-NACH-58683-58683",
+    "debit": 0,
+    "credit": 7.2,
+    "balance": 7.2
+  },
+  {
+    "date": "01-10-2024",
+    "description": "SB:924010027122277:Int.Pd:01-07-2024 to 30-09-2024",
+    "debit": 0,
+    "credit": 29.0,
+    "balance": 36.2
+  },
+  {
+    "date": "05-10-2024",
+    "description": "NEFT/CMS4553852694/ANGEL ONE LIMITED CLIENT AC/ICICI BANK LIMITED/ANGEL ONE LIMITED CLIENT AC",
+    "debit": 0,
+    "credit": 4.29,
+    "balance": 40.49
+  },
+  {
+    "date": "07-10-2024",
+    "description": "ACH-CR-MASTEK LTD-NACH-2973207-2973207",
+    "debit": 0,
+    "credit": 240.0,
+    "balance": 280.49
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2A/428121600695/B MANJULA/Canara Ba/UPI/",
+    "debit": 0,
+    "credit": 50000.0,
+    "balance": 50280.49
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2A/979253690508/MANJULA B /Paymen/Union Bank of India",
+    "debit": 42000.0,
+    "credit": 0,
+    "balance": 8280.49
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2M/328815860915/PhonePe /Paymen/Axis Bank Ltd.",
+    "debit": 805.5,
+    "credit": 0,
+    "balance": 7474.99
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2A/565260408587/B MANJULA /Paymen/Canara Bank",
+    "debit": 2000.0,
+    "credit": 0,
+    "balance": 5474.99
+  },
+  {
+    "date": "07-10-2024",
+    "description": "ATM-CASH- AXIS/DPRH542501/7178/071024/BANGALORE",
+    "debit": 2000.0,
+    "credit": 0,
+    "balance": 3474.99
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2A/428145828938/PRAJAL /Kotak Mah/UPI/",
+    "debit": 0,
+    "credit": 4300.0,
+    "balance": 7774.99
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2A/464721286749/B MANJULA/Canara Ba/Payment/",
+    "debit": 0,
+    "credit": 30000.0,
+    "balance": 37774.99
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2A/464714841902/B MANJULA/Canara Ba/Payment/",
+    "debit": 0,
+    "credit": 18000.0,
+    "balance": 55774.99
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2A/016315050784/ARSHAD HUSSAIN N /Paymen/HDFC BANK LTD",
+    "debit": 10000.0,
+    "credit": 0,
+    "balance": 45774.99
+  },
+  {
+    "date": "07-10-2024",
+    "description": "UPI/P2A/195876477320/KSHITI V /Paymen/Canara Bank",
+    "debit": 25000.0,
+    "credit": 0,
+    "balance": 20774.99
+  },
+  {
+    "date": "08-10-2024",
+    "description": "ATM-CASH/+KURUBARAHALLI OFF/BANGALORE-URB/081024",
+    "debit": 10000.0,
+    "credit": 0,
+    "balance": 10774.99
+  },
+  {
+    "date": "08-10-2024",
+    "description": "ATM-CASH- AXIS/APCN36308/9464/081024/BANGALORE",
+    "debit": 7500.0,
+    "credit": 0,
+    "balance": 3274.99
+  },
+  {
+    "date": "10-10-2024",
+    "description": "UPI/P2A/428470200730/SAJAL CH/Kotak Mah/deposit/",
+    "debit": 0,
+    "credit": 10000.0,
+    "balance": 13274.99
+  },
+  {
+    "date": "11-10-2024",
+    "description": "ATM-CASH/+NANDINI LAYOUT/BANGALORE/111024",
+    "debit": 7000.0,
+    "credit": 0,
+    "balance": 6274.99
+  },
+  {
+    "date": "11-10-2024",
+    "description": "ATM-CASH/+NANDINI LAYOUT/BANGALORE/111024",
+    "debit": 1000.0,
+    "credit": 0,
+    "balance": 5274.99
+  },
+  {
+    "date": "12-10-2024",
+    "description": "UPI/P2A/123305928013/B Nagaraju /Paymen/State Bank Of India",
+    "debit": 500.0,
+    "credit": 0,
+    "balance": 4774.99
+  },
+  {
+    "date": "13-10-2024",
+    "description": "UPI/P2A/739624928391/SATYAGOPA/Federal B/Payment/",
+    "debit": 0,
+    "credit": 2000.0,
+    "balance": 6774.99
+  },
+  {
+    "date": "14-10-2024",
+    "description": "UPI/P2A/515937243119/MANJULA B/Union Ban/Payment/",
+    "debit": 0,
+    "credit": 1500.0,
+    "balance": 8274.99
+  },
+  {
+    "date": "14-10-2024",
+    "description": "UPI/P2A/465418667386/T M YATHI/Canara Ba/Payment/",
+    "debit": 0,
+    "credit": 1100.0,
+    "balance": 9374.99
+  },
+  {
+    "date": "14-10-2024",
+    "description": "UPI/P2M/986457829715/Airtel Recharge /Paymen/Axis Bank Ltd.",
+    "debit": 201.0,
+    "credit": 0,
+    "balance": 9173.99
+  },
+  {
+    "date": "14-10-2024",
+    "description": "UPI/P2A/993146845654/B MANJULA /Paymen/Canara Bank",
+    "debit": 2000.0,
+    "credit": 0,
+    "balance": 7173.99
+  },
+  {
+    "date": "15-10-2024",
+    "description": "UPI/P2M/220534907832/Sri Ranga Filling Sta/Paymen/Yes Bank Ltd",
+    "debit": 1000.0,
+    "credit": 0,
+    "balance": 6173.99
+  },
+  {
+    "date": "15-10-2024",
+    "description": "/Paymen/Yes Bank Ltd UPI/P2A/465578447873/B MANJULA/Canara",
+    "debit": 0,
+    "credit": 540.0,
+    "balance": 5633.99
+  },
+  {
+    "date": "15-10-2024",
+    "description": "Ba/Payment/ UPI/P2M/593040296979/MC DONALDS",
+    "debit": 0,
+    "credit": 500.0,
+    "balance": 6133.99
+  },
+  {
+    "date": "15-10-2024",
+    "description": "/Paymen/HDFC BANK LTD UPI/P2M/709757028251/MC DONALDS",
+    "debit": 329.0,
+    "credit": 0,
+    "balance": 5804.99
+  },
+  {
+    "date": "15-10-2024",
+    "description": "/Paymen/HDFC BANK LTD UPI/P2A/611905353524/KEDARNATH",
+    "debit": 128.94,
+    "credit": 0,
+    "balance": 5676.05
+  },
+  {
+    "date": "15-10-2024",
+    "description": "SURESH MELL/Paymen/Kotak Mahindra Bank UPI/P2A/465567658443/M SHREE G/Canara",
+    "debit": 2000.0,
+    "credit": 0,
+    "balance": 3676.05
+  },
+  {
+    "date": "15-10-2024",
+    "description": "Ba/Payment/ UPI/P2M/543263955585/N CHANDRA",
+    "debit": 0,
+    "credit": 1000.0,
+    "balance": 4676.05
+  },
+  {
+    "date": "15-10-2024",
+    "description": "PRASAD /Paymen/Yes Bank Ltd UPI/P2A/028331529461/KEDARNATH",
+    "debit": 155.0,
+    "credit": 0,
+    "balance": 4521.05
+  },
+  {
+    "date": "15-10-2024",
+    "description": "SURESH MELL/Paymen/Kotak Mahindra Bank UPI/P2A/490829500231/KEDARNATH",
+    "debit": 500.0,
+    "credit": 0,
+    "balance": 4021.05
+  },
+  {
+    "date": "15-10-2024",
+    "description": "SURESH MELL/Paymen/Kotak Mahindra Bank UPI/P2M/038079848725/COLUMBIA LIQUORS",
+    "debit": 475.0,
+    "credit": 0,
+    "balance": 3546.05
+  },
+  {
+    "date": "15-10-2024",
+    "description": "/Paymen/Kotak Mahindra Bank UPI/P2M/994222015139/ONE STOP SERVICE",
+    "debit": 2445.0,
+    "credit": 0,
+    "balance": 1101.05
+  },
+  {
+    "date": "16-10-2024",
+    "description": "STAT/Paymen/Yes Bank Ltd UPI/P2A/465618154578/M SHREE G/Canara",
+    "debit": 500.0,
+    "credit": 0,
+    "balance": 601.05
+  },
+  {
+    "date": "16-10-2024",
+    "description": "Ba/Payment/ UPI/P2M/158506181185/HOTEL ADITYA",
+    "debit": 0,
+    "credit": 500.0,
+    "balance": 1101.05
+  },
+  {
+    "date": "16-10-2024",
+    "description": "/Paymen/Yes Bank Ltd UPI/P2A/429024365898/MANJULA B/EQUITAS",
+    "debit": 430.0,
+    "credit": 0,
+    "balance": 671.05
+  },
+  {
+    "date": "16-10-2024",
+    "description": "S/Payment/ UPI/P2M/595255175173/FKLOA",
+    "debit": 0,
+    "credit": 500.0,
+    "balance": 1171.05
+  },
+  {
+    "date": "16-10-2024",
+    "description": "/Paymen/Yes Bank Ltd UPI/P2A/465730519261/ARUNA KUM/Bank of",
+    "debit": 500.0,
+    "credit": 0,
+    "balance": 671.05
+  },
+  {
+    "date": "17-10-2024",
+    "description": "I/rent/ UPI/P2M/714462765461/raja n",
+    "debit": 0,
+    "credit": 2500.0,
+    "balance": 3171.05
+  },
+  {
+    "date": "17-10-2024",
+    "description": "/Paymen/UCO Bank UPI/P2M/888690711528/CAFE AMUDHAM",
+    "debit": 5.0,
+    "credit": 0,
+    "balance": 3166.05
+  },
+  {
+    "date": "17-10-2024",
+    "description": "/Paymen/HDFC BANK LTD UPI/P2M/455940884448/CAFE AMUDHAM",
+    "debit": 530.0,
+    "credit": 0,
+    "balance": 2636.05
+  },
+  {
+    "date": "17-10-2024",
+    "description": "/Paymen/HDFC BANK LTD UPI/P2A/827874717667/T M YATHINDRA",
+    "debit": 20.0,
+    "credit": 0,
+    "balance": 2616.05
+  },
+  {
+    "date": "17-10-2024",
+    "description": "/Paymen/Canara Bank UPI/P2M/275982572571/CAKE KRAFT",
+    "debit": 700.0,
+    "credit": 0,
+    "balance": 1916.05
+  },
+  {
+    "date": "18-10-2024",
+    "description": "/Paymen/Yes Bank Ltd UPI/P2M/404914206817/MANIKANTAN S",
+    "debit": 40.0,
+    "credit": 0,
+    "balance": 1876.05
+  },
+  {
+    "date": "18-10-2024",
+    "description": "/Paymen/Yes Bank Ltd UPI/P2A/983076605671/ROHITH RA/Bank of",
+    "debit": 1179.0,
+    "credit": 0,
+    "balance": 697.05
+  },
+  {
+    "date": "18-10-2024",
+    "description": "B/Payment/ UPI/P2A/465844545156/M SHREE G/Canara",
+    "debit": 0,
+    "credit": 395.0,
+    "balance": 1092.05
+  },
+  {
+    "date": "18-10-2024",
+    "description": "Ba/Payment/ UPI/P2A/465872537960/B MANJULA/Canara",
+    "debit": 0,
+    "credit": 7000.0,
+    "balance": 8092.05
+  },
+  {
+    "date": "18-10-2024",
+    "description": "Ba/Payment/ UPI/P2A/429298709575/MANJULA B/EQUITAS",
+    "debit": 0,
+    "credit": 1000.0,
+    "balance": 9092.05
+  },
+  {
+    "date": "18-10-2024",
+    "description": "S/Payment/ UPI/P2M/429231684935/Simpl",
+    "debit": 0,
+    "credit": 1000.0,
+    "balance": 10092.05
+  },
+  {
+    "date": "18-10-2024",
+    "description": "/Collec/Axis Bank Ltd. UPI/P2A/465904554633/M SHREE G/Canara",
+    "debit": 9291.43,
+    "credit": 0,
+    "balance": 800.62
+  },
+  {
+    "date": "19-10-2024",
+    "description": "Ba/Payment/ UPI/P2M/921120233610/SRI LAKSHMI",
+    "debit": 0,
+    "credit": 16000.0,
+    "balance": 16800.62
+  },
+  {
+    "date": "19-10-2024",
+    "description": "VENKATESH/Paymen/Yes Bank Ltd POS/RAREISM/BANGALORE/191024/07:31/42",
+    "debit": 500.0,
+    "credit": 0,
+    "balance": 16300.62
+  },
+  {
+    "date": "19-10-2024",
+    "description": "9307454627 UPI/P2M/069121665270/K547 KFC Forum",
+    "debit": 10000.0,
+    "credit": 0,
+    "balance": 6300.62
+  },
+  {
+    "date": "19-10-2024",
+    "description": "Falcon/Paymen/Yes Bank Ltd UPI/P2A/950771892969/T M YATHINDRA",
+    "debit": 698.3,
+    "credit": 0,
+    "balance": 5602.32
+  },
+  {
+    "date": "19-10-2024",
+    "description": "/Paymen/Canara Bank UPI/P2M/856341386759/K SAJAN",
+    "debit": 1600.0,
+    "credit": 0,
+    "balance": 4002.32
+  },
+  {
+    "transaction_date": "20-10-2024",
+    "description": "/Paymen/Yes Bank Ltd UPI/P2M/252434462075/PARMANAND",
+    "debit_amount": 124.0,
+    "credit_amount": 0,
+    "balance": 3878.32
+  },
+  {
+    "transaction_date": "20-10-2024",
+    "description": "YADAV /Paymen/Yes Bank Ltd UPI/P2M/892421105148/PARMANAND",
+    "debit_amount": 18.0,
+    "credit_amount": 0,
+    "balance": 3860.32
+  },
+  {
+    "transaction_date": "20-10-2024",
+    "description": "YADAV /Paymen/Yes Bank Ltd UPI/P2M/133524801567/PARMANAND",
+    "debit_amount": 30.0,
+    "credit_amount": 0,
+    "balance": 3830.32
+  },
+  {
+    "transaction_date": "20-10-2024",
+    "description": "YADAV /Paymen/Yes Bank Ltd UPI/P2M/708454120613/SRI LAKSHMI",
+    "debit_amount": 18.0,
+    "credit_amount": 0,
+    "balance": 3812.32
+  },
+  {
+    "transaction_date": "21-10-2024",
+    "description": "VENKATESH/Paymen/Yes Bank Ltd UPI/P2A/466179506393/M SHREE G/Canara",
+    "debit_amount": 500.0,
+    "credit_amount": 0,
+    "balance": 3312.32
+  },
+  {
+    "transaction_date": "21-10-2024",
+    "description": "Ba/Payment/",
+    "debit_amount": 0,
+    "credit_amount": 500.0,
+    "balance": 3812.32
+  },
+  {
+    "transaction_date": "21-10-2024",
+    "description": "ACH-CR-NMDC LTD-NACH-0000020099950-0000020099950",
+    "debit_amount": 0,
+    "credit_amount": 75.0,
+    "balance": 3887.32
+  },
+  {
+    "transaction_date": "21-10-2024",
+    "description": "UPI/P2A/466157307335/BASIM SET/Axis Bank/Payment/",
+    "debit_amount": 0,
+    "credit_amount": 1000.0,
+    "balance": 4887.32
+  },
+  {
+    "transaction_date": "22-10-2024",
+    "description": "UPI/P2A/449945116440/ANANYA C/HDFC BANK/Payment/",
+    "debit_amount": 0,
+    "credit_amount": 1000.0,
+    "balance": 5887.32
+  },
+  {
+    "transaction_date": "22-10-2024",
+    "description": "UPI/P2A/429655523468/Ganavi S /State Ban/UPI/",
+    "debit_amount": 0,
+    "credit_amount": 1000.0,
+    "balance": 6887.32
+  },
+  {
+    "transaction_date": "22-10-2024",
+    "description": "UPI/P2M/865529419847/PhonePe /Paymen/Axis Bank Ltd.",
+    "debit_amount": 4421.0,
+    "credit_amount": 0,
+    "balance": 2466.32
+  },
+  {
+    "transaction_date": "22-10-2024",
+    "description": "UPI/P2A/783235896414/MANJULA B/EQUITAS S/Payment/",
+    "debit_amount": 0,
+    "credit_amount": 3500.0,
+    "balance": 5966.32
+  },
+  {
+    "transaction_date": "22-10-2024",
+    "description": "UPI/P2A/466269658326/PAWAN KUM/ICICI Ban/UPI/",
+    "debit_amount": 0,
+    "credit_amount": 1000.0,
+    "balance": 6966.32
+  },
+  {
+    "transaction_date": "22-10-2024",
+    "description": "UPI/P2A/466287109215/S KEERTHA/Canara Ba/UPI/",
+    "debit_amount": 0,
+    "credit_amount": 500.0,
+    "balance": 7466.32
+  },
+  {
+    "transaction_date": "22-10-2024",
+    "description": "UPI/P2A/744621844171/THANGARAJ/Bank of I/Payment/",
+    "debit_amount": 0,
+    "credit_amount": 1000.0,
+    "balance": 8466.32
+  },
+  {
+    "transaction_date": "22-10-2024",
+    "description": "UPI/P2A/429681342548/MANIVENGA/Federal B/UPI/",
+    "debit_amount": 0,
+    "credit_amount": 1000.0,
+    "balance": 9466.32
+  }
+]
